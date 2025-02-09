@@ -24,16 +24,6 @@ This project explores the integration of Locality Sensitive Hashing (LSH) with c
 - **Matplotlib & Seaborn:** Data visualization  
 - **Jupyter Notebooks:** Code documentation and analysis  
 
-## Installation
-1. Clone the repository:  
-   `git clone https://github.com/your-username/lsh-privacy-recommendation.git`  
-   `cd lsh-privacy-recommendation`  
-2. Create and activate a virtual environment:  
-   `python3 -m venv venv`  
-   `source venv/bin/activate` (Windows: `.\\venv\\Scripts\\activate`)  
-3. Install dependencies:  
-   `pip install -r requirements.txt`
-
 ## Datasets
 - **MovieLens 20M Dataset:** [Available here](https://grouplens.org/datasets/movielens/20m/)  
 - **Instagram Interaction Data:** Includes:  
